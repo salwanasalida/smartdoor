@@ -4,7 +4,7 @@ Intelligent Biometric Security System (InBioSs)
 
 The Smart Door Lock system with fingerprint uses a biometric identification  that is an automated identification that will support human biological characteristics for the authentication function. Nowadays, using a physical key or  card reader locks is the way everyone is familiar with it. Furthermore, although the way is a common way that people currently applied, it has many flaws. For example, careless users need to carry many keys, lose their key, and forget to bring 
 the key, misplaced or lost. The project aims to secure access control that can replace the physical key or the card reader lock. We proposed a solution by using 
-a fingerprint sensor to unlock the door.
+a fingerprint sensor to unlock the door. The project implements a Python language, MySQL database, Node-RED application, Telegram application, and a Raspberry Pi to ensure the system working well. 
 
 Therefore, few features will be added to the project to overcome the problem: log and tracking module and smart notification. Furthermore, this project will be 
 using the Node-RED application to provide details about the door activity, such as the time and date the user enters and left the door, the number of user access, and 
