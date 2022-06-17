@@ -12,9 +12,10 @@ who accesses the door. The smart notification features are a technique designed 
 Telegram application if any unauthorized users try to access the smart door. Instead if that , user also able to control the door remotely via Telegram command . Therefore, the user can take immediate action and is more secure. It will heighten security and will eliminate the need to carry physical keys and card readers every time
 
 
-Hardware and Software Requirments
+Hardware and Software Requirements
 
 Hardware :
+
 • Raspberry Pi 4 Model B
 • Fingerprint Reader R307 Sensor
 • Micro SD card
